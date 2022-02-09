@@ -19,5 +19,5 @@ jobs:
             - name: 'Use response'
               run: echo ${{ steps.api.outputs.response }} 
             - name: 'Use response status'
-              run: echo ${{ steps.api.outputs.status_code }} 
+              run: echo ${{ fromJson(steps.api.outputs).status_code }} 
 
