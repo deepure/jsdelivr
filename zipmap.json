@@ -1,0 +1,272 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@AAAB@@@B@@@BBD@@@@B@@BE@@A@A@@E@@B@BC@CBABBB@@FDHHBDDDBDBBBDLPBB@@@B@D@@BB@BBBBDBB@@BH@@@@@BB@B@DA@BB@@@@@@@@CB@@@BA@@BAB@@@ACB@B@JAB@AAAACCA@AC@@GIHCD@FA@CABAAB@@AA@@A@@CBA@@AB@A@@AAA@@@@A@AAB@A@AA@@CAA@BCA@@BEA@B@@A@AA@@AA@A@@@C@A@@CA@AAB@BC@@@A@@@ABA@B@@A@@C@CBAB@ABCB@@@B@@@A@ACF@@BB@@A@A@@@A@CAA@@AA@@CA@BA@"
+                ],
+                "encodeOffsets": [
+                    [
+                        121590,
+                        32739
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "赛虹桥街道"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "@@@@A@BB@A"
+                    ],
+                    [
+                        "@@OAUCC@@B@FE@KAAIE@@@A@C@A@AB@@BB@@@@@BB@@ADB@@BB@@BB@D@B@@@B@BA@@AE@BDB@@@A@@@A@AD@BBADAD@@@@BA@B@BA@@B@@@D@@ABA@BDB@@@B@D@@@BBB@@BBB@@@@AFB@AB@ADB@DB@@BBB@@A@@@@B@BA@@BA@@BB@@B@@BB@@B@@B@@C@OB@@@@@H@@JB@AF@@@@F@@A@AFB@@DI@@@ABBB@DEB@BA@@@C@@EAGAAD@@AD@@@D@@ACBA@A@@@A@@BAE@"
+                    ],
+                    [
+                        "@@A@@@A@@BD@@A"
+                    ],
+                    [
+                        "@@@AD@@BD@@EC@A@A@CB@BB@@BA@BBBA"
+                    ],
+                    [
+                        "@@@@A@@@@@@@@@@@B@"
+                    ]
+                ],
+                "encodeOffsets": [
+                    [
+                        [
+                            121644,
+                            32757
+                        ]
+                    ],
+                    [
+                        [
+                            121628,
+                            32741
+                        ]
+                    ],
+                    [
+                        [
+                            121640,
+                            32751
+                        ]
+                    ],
+                    [
+                        [
+                            121620,
+                            32762
+                        ]
+                    ],
+                    [
+                        [
+                            121622,
+                            32763
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "中国南京软件谷"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@C@AAIQ@@CBEBMABEA@@@@@@AAB@AA@@@A@@A@@@DC@EC@@DCA@@CA@@@@AA@@@AAA@ABA@@BA@C@ABMLEDCCGDAAA@GDBBA@FDBDDDDDCBBBKJJFbbNLBBDFFFFFBC@ADEDCDEBABCB@BAVCJANAJAH@HA@BAB@@@B@@@AB@@@@@B@A@@BB@@@B@@@BAB@D@@A@A@@@AB@AAEAICOCCACAEA@B@@CAA@A@CBABA@ACA@AADCDC@@@A@@B@AA@ABAGG"
+                ],
+                "encodeOffsets": [
+                    [
+                        121516,
+                        32704
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "雨花经济开发区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@A@@B@@@@IB@BBBBBBBBBDBFBJDFDFBBBJP@@JRBBD@@@BA@@B@@AB@B@@@@BB@@@DBBALAD@DDDCDCBBBAB@AA@A@ADE@@A@AA@BA@A@@A@BA@A@@@@@@@@@@@@AA@AA@@A@@@@AAA@@ABAB@@A@CA@@@@B@A@@@@A@@@@@@A@@A@@@@@@@@@AA@@B@@@@@@@@A@@@@@@@@@@AA@@B@@C@@@A@BA@@@@BBBA@@@AC@@AD@AA@@C@@@BA@@AA@@B@ACBA@@B@@@@AB@@@@@B@@@@@@@@A@@B@@@@AB@@@@AA@@@@B@@A@@@@A@@B@B@@AA@@@@@@AB@@@@@@@@@@@@@@AB@@@D@@@D@B@B@DAACD@A@@@@@@A@@@@@@AA@@AAB@AA@@@A@@@@A@@@@@AA@@@@@B@@@@@@AA@@@BA@@A@@G@A@@@AB@@@B@@B@@@A@ADA@@@@@@@A@A@@@@@A@@@@@@@A@@AA@@@@A@B@BA@@@AAA@@@A@@@@AA@@@@B@@@AC@@@@B@@A@@@A@@@A@@@@AAB@@A@A@@@A@@@@A@@B@@AA@@A@@@B@ACBABA@A@AB@DA@CBCB@@@BA@@@AA@@A@"
+                ],
+                "encodeOffsets": [
+                    [
+                        121488,
+                        32671
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "板桥新城"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@PK@ABBBBB@AAHCB@BBHCDDFCNKBAD@B@@AB@BAB@BB@@B@@B@@B@@DB@CD@@FDD@@C@@@BB@@@B@@BBA@B@@@@B@AFNBFADAIOAAEAECICEACAAAAAAAAAGB@A@@A@A@@@@@@B@BFFA@A@AA@@A@@@AAB@A@@A@@AAAAA@@@@B@@@@@D@@@@@@@F@@@BABA@@HE@C@Q@@IC@@@D@@MGCCA@@E@@B@@@@@BAB@CB@@AABAAAE@@@@AE@GA@@OZ@BBBB@@BD@PH@JCDBBABBDD@BFBDBBAB@@@BA@BD@@@@@ABB@B@H@@@@BBBB@@@BB@@B@@A@@DADAB@@CBAB@B@BADAA@@@@@@AA@AB@GA@AB@@@@A@BA@@@A@@@@@AB@@@@@@ABAA@A@@A@@@A@@@@@@@@@A@@@A@@B@@@@@@@@A@@@@BAA@@A@@@@@@@AA@B@A@@@@A@@@@@A@BA@@@A@@@@@@@BA@@@A@@A@@@A@@@@@@@@AA@@@@B@@@A@@A@@@A@@@@@@A@@@@@A@@@@A@@@@@A@@A@@AB@@@A@@C@@@@A@@B@@@AAA@@@@A@@@@@@A@@@@A@@A@@@@@A@@A@BA@@@AA@A@A@@CBA@@@@A@@@@@AA@@BA@@@@@A@@BABA@AB@@@@AA@@@@@@@@@@A@@@@@A@@@@ACB@@A@@@A@@@@@@@@@AACB@@A@BDGDFH@@DDEBHDB@@@@@@@C@@@AACBDDCBAAA@AB@AA@@@CAA@@D@@AAA@AB@BA@C@@@A@@AA@@A@@A@@A@@A@@B@@BBA@@@@A@@@BA@@@C@CB@@@@A@@B@@@B@BA@ABA@@@@B@@@@DDBDCBDDDF@@B@@ABBA@@@@BABA@@@EDCAAB@@GJ@@@B@@DDDFFJDD@BBBBBFF@@FFFF",
+                    "@@@@@@B@@@@@B@@@@@B@@@@@@@@@@@B@@@@@@@@@@B@@@@@@@@@@A@@@@@@B@@@@@@B@@@@@@@@@A@@@@@A@@@A@AA@@@@@@@A@@"
+                ],
+                "encodeOffsets": [
+                    [
+                        121447,
+                        32702
+                    ],
+                    [
+                        121460,
+                        32641
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "板桥街道",
+                "cp": [
+                    118.63292534722016,
+                    31.88998958331814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "@@@AJA@@@@@AB@AA@A@@G@A@A@BA@@@@C@@AAB@@A@ABCAEA@ACCAAABCAIDG@@OAC@@AAAAY@@PB@@HBF@@@@BFBBBA@BA@@DBA@A@@@@@AF@@@DBHD@NC@@@D@@JR@D@F@@GB@BA@A@@@E@@@@@@@C@@@@@A@@B@BBBB@@@BB@A@BB@@B@@@BBB@B@EE@A@A@@@@B@B@@@@BHA"
+                    ],
+                    [
+                        "@@AAAA@BOLLJJJLIAADACCCCACEC"
+                    ],
+                    [
+                        "@@OG@AEC@AABABAAA@@@@B@B@@@@FBDD@B@@@B@D@@@@BB@ABB@@BBBB@BE@@@A@A@@@@@@BB@BA@B@@D@@@AB@@@@@B@@@@BB@@ABBB@@ABD@D@B@B@B@BBB@B@B@@@@A@@@A@@@@BBB@@@@@@@@B@@A@@@B@@B@@@@@BA@B@DA@@@CB@BB@B@@A@@@@@@@B@AB@@@@B@BAB@@ABB@@@@@ABB@A@@@@@@AA@@A@@AA@@@ABC@@CAAAAA@C@@B@@A@@@@BA@@@@@@@@@A@@@@ADA@AB@@AA@A@@BA@@BA@@@AA@A@@@B@@@AD@DA@B@@FA@@B@@B@@BB@@@@@AB@@A@@FAD@ACA@AB@A@@@A@@A@AA@@A@@@@@CA@BC@CA"
+                    ]
+                ],
+                "encodeOffsets": [
+                    [
+                        [
+                            121482,
+                            32674
+                        ]
+                    ],
+                    [
+                        [
+                            121457,
+                            32697
+                        ]
+                    ],
+                    [
+                        [
+                            121561,
+                            32710
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "梅山街道",
+                "cp": [
+                    118.62092534722016,
+                    31.90598958331814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@CB@B@@@DB@ADAD@BF@AB@@@B@@@BABBD@@@C@@BC@@BCHBFB@@@D@@ABA@CFA@AA@B@@CJ@@EA@B@BE@@@@@BEA@@IG@@@@@A@@P@DA@@@@AA@@AA@@@AA@@AB@@ABA@@@@@@BA@BBB@@@@@BB@BB@A@@BB@DA@@DAB@B@D@@FC@@AC@@B@DEBC@GDHJ@@BDB@DDBBBBDAB@@@B@FA@AB@@B@@BAAA@@B@@ADEB@@AB@@@B@@@@@@@BAB@BA@@BA@@@B@A@@@@@@AAB@DABA@AJKDIBAB@DC@@FEFBB@@@@AA@AA@A@@@ACABA@@@A@@@@@A@@A@BAAA@@@A@@@@@A@@@@@@@@@@B@@@AA@B@@@@AA@@@@@@@@@@@AA@@@@@@@@A@BA@@@@@AB@@A@CFAB@@A@EAA@ADEAEA@EIA@@@@",
+                    "@@@BAAB@@@",
+                    "@@@BC@@AB@@@B@",
+                    "@@A@@@@@@@@@@@B@@@"
+                ],
+                "encodeOffsets": [
+                    [
+                        121631,
+                        32732
+                    ],
+                    [
+                        121644,
+                        32757
+                    ],
+                    [
+                        121640,
+                        32751
+                    ],
+                    [
+                        121622,
+                        32763
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "雨花街道"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@CF@B@BBBA@ABAACDCDCCC@KBABCA@@A@@A@@A@A@@BA@@@AB@@HHAB@BBBA@@@@B@@CDCDBBB@BDB@BADAB@B@DB@@@AFBDBDBPDJDFBBBD@F@B@@B@@DBB@BBB@DDBBBBBB@BBBDDBBBBDDFBFFBADAD@@A@AF@@@@B@BF@@AA@@@@@AC@A@@@A@@BABB@A@@@@AA@@BAAAA@@AAA@@BA@@@@AAA@CCABB@@B@@A@@@AACA@@A@@AA@@@@@@@@@@AA@@AD@@C@@@GB@@A@@@@A@@A@CD@@@BA@ABA@@A@@@@@A@@@AA@@@@AB@A@@C@@@BAAABAAA@@@@EBA@CAAC@A@A@A@@@AA@A@@@@@A@@@@@A@@@@@@B@@AB@@@@A@BA@@@@@A@@@@E@@A@ABAAC@AC@C@A@@BAA@ABA@@@@AA@@A@@@A@A@@@ABA@ABC@@B@@AB@A@@A@BAA@@@@@EA@@@@A@",
+                    "@@DBD@@ADB@@@@B@@@BBB@@@@B@@@BBAB@BDC@EB@@@BA@@B@@@@AA@@@AA@@@EB@@@ACBC@@B@@@A@@@BBB@@B@@AB@@AB@B@@BA@@BCB@B@@B@@@@@@@@@B@@A@@B@@@@AD@B@BBBB@DD@BA@@B@@BB@@@BB@@@@@@@BAA@B@@@@AA@BA@ABA@@@@@BAA@@@@@@@B@@@@AAAA@@D@@CBA@B@@A@@@@@AA@@@B@@@@A@@@@@@A@AA@@@@@B@@@B@@A@A@A@AAA@A@A@C@C@BA@@AABA@@AA@@@@@A@@@@BA@@C@@@@AABA@@A@@@@B@B@@@F@@AAAAA@@AA@BAA@@@@@C@A@@@ACCEA@@@@@A@A@@B@BBBABA@BFD@BPH"
+                ],
+                "encodeOffsets": [
+                    [
+                        121542,
+                        32694
+                    ],
+                    [
+                        121561,
+                        32710
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "西善桥街道"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    "@@@@@@B@B@@B@@@B@B@BBDDBB@FA@@@@BBABBBAB@@D@@@@BBA@@@@BB@@B@@@@@B@@@AB@BAB@@C@@D@BB@@@@@@BA@@H@@@DC@@BB@@B@@@@@@@@B@@BB@@@DBBB@@B@@@@AA@BADDB@BB@@@@AB@@BB@BB@BBB@D@B@@@F@BJLBF@@E@AD@VDPB@ABCBCA@@C@@@ADAA@@@@@@@@@@AA@@@@@@@@@@@@BA@@@@@@@@@@A@@@@@@@@A@B@@@AABAB@A@@A@AOB@C@@@@A@@@@A@@AB@@@@AAAB@@A@DA@@CB@@@AAA@C@@ACBG@AAA@A@@@ABABAB@B@@AB@BA@@@A@A@@@@BAB@@@@ABE@@AA@@A@A@@A@AB@@@@@B@@@B@@@@AAABA@@AA@@AAB@@@@@BB@AB@B@@@B@@@BA@@@@@A@@A@@@A@@A@@@@A@BAC@C@@ABAA@A@@@A@@@A@AAA@AB@@@@A@@@A@BA@AAAA@AC@@@@@@@A@@@@@@B@@B@BB@@@@@@A@@@@@@AA@@@AA@@B@@AA@B@@@BABA@@@CBA@@@@@A@@@@B@@@@@B@@B@A@@@AB@@A@@@BG@A@@A@@@AB@@@@@@@@@BA@@A@@@@A@@@B@CAC@B@@B@@@@@@B@B@@BA@A@A@@@@A@@A@@@ABAAA@BAA@@A@@@AA@@@ABA@EB@B@@@@A@A@C@CB@@@@C@@@A@@BA@ABA@@@AB@@@BA@@D@B@@B@A@@B@@@@@@BB@@A@A@A@@BABAB@@@B@@@B@@@@A@@BB@A@BB@@@@BB@@A@@@BB@@"
+                ],
+                "encodeOffsets": [
+                    [
+                        121568,
+                        32702
+                    ]
+                ]
+            },
+            "properties": {
+                "country": "雨花台区",
+                "name": "铁心桥街道"
+            }
+        }
+    ],
+    "UTF8Encoding": true
+}
