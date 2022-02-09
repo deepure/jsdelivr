@@ -17,5 +17,5 @@ jobs:
                 headers: '{"Content-Type": "application/json"}'
                 body: '{"content":{"ResourceTypeID":"002","DiagOrgID":"","ResourceID":"1330","HospID":"0101|0102|0106","ReserDate":""}}'
             - name: 'Use response'
-              if: steps.api.outputs.response.status_code == 200
-              run: echo ${{ steps.api.outputs.response }}
+              run: echo ${{ steps.api.outputs.response.status_code }} 
+
